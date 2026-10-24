@@ -25,6 +25,7 @@ An end-to-end analytics project on Airbnb prices across 10 European cities. It u
 | **Gold** | Star schema: `fact_listings` with `dim_city`, `dim_room_type`, `dim_day_type`. Views: `vw_listings`, `vw_city_summary`. |
 
 **Star schema**
+<img width="800" height="716" alt="image" src="https://github.com/user-attachments/assets/ca716123-c635-4e41-ae7e-08a946e34718" />
 
 ```
 dim_city ───────┐
@@ -92,4 +93,4 @@ SQL Server (T-SQL, dynamic SQL, views, indexes) · Power BI (DAX) · Medallion a
 
 ## Author
 
-**Mai Reda** · [LinkedIn](www.linkedin.com/in/mai-reda-74477423b) · [GitHub](https://github.com/EngMai-AI))
+**Mai Reda** · [LinkedIn](https://www.linkedin.com/in/mai-reda-74477423b) · [GitHub](https://github.com/EngMai-AI)
