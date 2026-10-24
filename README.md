@@ -94,3 +94,6 @@ SQL Server (T-SQL, dynamic SQL, views, indexes) · Power BI (DAX) · Medallion a
 ## Author
 
 **Mai Reda** · [LinkedIn](https://www.linkedin.com/in/mai-reda-74477423b) · [GitHub](https://github.com/EngMai-AI)
+
+
+Built as part of the AI Diploma at Instant Software Solutions.
